@@ -1,0 +1,20 @@
+.content {
+    padding: 30px; 
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #bbb; */
+}
+.colLeft, .colRight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 45px;
+}
+.colLeft {
+    width: 60%;
+}
+.colRight {
+    width: calc(40% - 20px);
+    position: relative;
+}

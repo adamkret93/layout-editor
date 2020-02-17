@@ -1,0 +1,43 @@
+.buttonsWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: rgba(0,0,0,0.6);
+    padding: 15px;
+    width: 100%;
+    z-index: 10;
+}
+
+button {
+    padding: 0 15px;
+    border: 0;
+    margin: 0 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 45px; 
+    line-height: 45px;
+    min-width: 120px;
+    font-size: 18px;
+    transition: all .2s;
+    outline: none;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+}
+
+.Save {
+    background-color: #4CAF50;
+    color: #fff;
+}
+.Save:hover { background-color: #3e8e41; }
+.Save:focus { border-color: #4CAF50; }
+.Save:disabled { background-color: #71c174; cursor: not-allowed; }
+
+.Cancel {
+    background-color: #f44336;
+    color: #fff;
+}
+.Cancel:hover { background-color: #da190b; }
+.Cancel:focus { border-color: #f44336;; }
