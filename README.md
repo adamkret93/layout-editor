@@ -6,5 +6,5 @@ Trzeba zainstalować, aby uruchomić project dzięki npm start
 
 ### `npm start`
 Uruchomienie aplikacji w trybie developerskim.<br />
-Otwórz [http://localhost:3000](http://localhost:3000), aby zobaczyć w przeglądarce.<br />
+Po uruchomieniu ww. komendy, optwórz [http://localhost:3000](http://localhost:3000), aby zobaczyć aplikację w przeglądarce.<br />
 Strona zostanie rzeładowana za każdym razem, gdy dokonsza zmiany w plikach.abs
