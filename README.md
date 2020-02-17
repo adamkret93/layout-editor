@@ -2,7 +2,7 @@
 
 ### `npm install`
 
-Trzeba zainstalować, aby uruchomić project dzięki npm start
+Trzeba zainstalować, aby uruchomić projekt dzięki npm start.
 
 ### `npm start`
 Uruchomienie aplikacji w trybie developerskim.<br />
