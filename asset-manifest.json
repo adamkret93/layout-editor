@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/layout-editor/static/css/main.520cc941.chunk.css",
+    "main.js": "/layout-editor/static/js/main.38a6a1f1.chunk.js",
+    "main.js.map": "/layout-editor/static/js/main.38a6a1f1.chunk.js.map",
+    "runtime-main.js": "/layout-editor/static/js/runtime-main.e177a67a.js",
+    "runtime-main.js.map": "/layout-editor/static/js/runtime-main.e177a67a.js.map",
+    "static/js/2.eb399b1c.chunk.js": "/layout-editor/static/js/2.eb399b1c.chunk.js",
+    "static/js/2.eb399b1c.chunk.js.map": "/layout-editor/static/js/2.eb399b1c.chunk.js.map",
+    "index.html": "/layout-editor/index.html",
+    "precache-manifest.b8d99a8e3fe5c63023da374d6cf4a93d.js": "/layout-editor/precache-manifest.b8d99a8e3fe5c63023da374d6cf4a93d.js",
+    "service-worker.js": "/layout-editor/service-worker.js",
+    "static/css/main.520cc941.chunk.css.map": "/layout-editor/static/css/main.520cc941.chunk.css.map",
+    "static/js/2.eb399b1c.chunk.js.LICENSE.txt": "/layout-editor/static/js/2.eb399b1c.chunk.js.LICENSE.txt",
+    "static/media/happy.svg": "/layout-editor/static/media/happy.52814235.svg",
+    "static/media/loader.gif": "/layout-editor/static/media/loader.13fa1912.gif",
+    "static/media/sad.svg": "/layout-editor/static/media/sad.473d3844.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e177a67a.js",
+    "static/js/2.eb399b1c.chunk.js",
+    "static/css/main.520cc941.chunk.css",
+    "static/js/main.38a6a1f1.chunk.js"
+  ]
+}
